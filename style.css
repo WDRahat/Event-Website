@@ -45,3 +45,15 @@ footer{
 .footer-img{
     width: 150px;
 }
+@media only screen and (max-width: 600px){
+    .contener-1{ display: flex;
+        flex-direction: column;
+
+    }
+    .contener-1 div{
+        justify-content: center;
+    }
+    .abc1{
+        margin-bottom: 50px;
+    }
+}
