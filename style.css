@@ -1,0 +1,47 @@
+*{
+    font-family: 'Inter', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+.nav-text a{
+    text-decoration: none;
+    color: black;
+    margin-right: 30px;
+}
+
+.section-2{
+    width: 80%;
+    margin:0 auto;
+}
+.list-1{
+    list-style-type: none;
+}
+.list-1 i{
+    color: rgb(48, 48, 233);
+    border: 1px solid rgb(204, 202, 220);
+    border-radius: 30px;
+    padding: 3px;
+}
+.list-2 i{
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(204, 202, 220);
+    border-radius: 30px;
+    padding: 3px;
+
+}
+
+.img-center{
+    justify-content: center;
+}
+.contener-1{
+    display: flex;
+    margin: 100px;
+}
+footer{
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-img{
+    width: 150px;
+}
