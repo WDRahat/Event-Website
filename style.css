@@ -9,6 +9,15 @@ font-family: 'Poppins', sans-serif;
     margin-right: 30px;
 }
 
+.position11{
+    position: relative;
+    margin-top: -90px;
+}
+.ourpackage{
+    margin-bottom: 200px;
+    margin-top: 50px;
+}
+
 .section-2{
     width: 80%;
     margin:0 auto;
